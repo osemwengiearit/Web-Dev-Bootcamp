@@ -260,12 +260,15 @@ textarea {
   display: flex;
   align-items: center;
   gap: 10px;
+  margin-top: 15px;
   margin-bottom: 25px;
+  cursor: pointer;
 }
 
 .cta-group input {
-  margin: auto;
-  justify-content: center;
+  width: 18px;
+  height: 18px;
+  margin: 0;
 }
 
 .submit-btn {
